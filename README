@@ -1,0 +1,33 @@
+Edit these files to write the body of each method:
+problem1.cpp
+problem2.cpp
+problem3.cpp
+problem4.cpp
+problem5.cpp
+problem6.cpp
+Do not modify the file names or function signatures.
+
+You can enter these commands to compile your functions with the provided main programs:
+cilk++ main1.cpp problem1.cpp -o main1 
+cilk++ main2.cpp problem2.cpp -o main2 
+cilk++ main3.cpp problem3.cpp -o main3 
+cilk++ main4.cpp problem4.cpp -o main4 
+cilk++ main5.cpp problem5.cpp -o main5 
+cilk++ main6.cpp problem6.cpp -o main6 
+
+Then you can run your programs using the provided test cases as follows:
+./main1 10 30
+./main2 12 10
+./main3
+./main4
+./main5
+./main6
+You are encouraged to create additional test cases for each problem.
+
+Expected outputs for the provided test cases are given in these files:
+out1.txt
+out2.txt
+out3.txt
+out4.txt
+out5.txt
+out6.txt

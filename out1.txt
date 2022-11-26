@@ -1,0 +1,20 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+4	6	8	10	12	14	16	18	20	22	
+6	9	12	15	18	21	24	27	30	33	
+8	12	16	20	24	28	32	36	40	44	
+10	15	20	25	30	35	40	45	50	55	
+12	18	24	30	36	42	48	54	60	66	
+14	21	28	35	42	49	56	63	70	77	
+16	24	32	40	48	56	64	72	80	88	
+18	27	36	45	54	63	72	81	90	99	
+20	30	40	50	60	70	80	90	100	110	
+22	33	44	55	66	77	88	99	110	121	
+
+Result = 4
